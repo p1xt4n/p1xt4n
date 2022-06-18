@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @p1xt4n
+- 👋 Hi, I’m @paxton
 
 <!---
 p1xt4n/p1xt4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
